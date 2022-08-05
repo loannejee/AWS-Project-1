@@ -4,8 +4,14 @@ This [Create React App](https://github.com/facebook/create-react-app) is meant t
 
 ##### AWS
 [S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html) - static website hosting for a react app
+<br />
+<br />
 [CloudFront](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html) - web service that speeds up distribution of your static and dynamic web content
+<br />
+<br />
 [ACM](https://docs.aws.amazon.com/acm/latest/userguide/acm-overview.html) - AWS Certificate Manager - prerequisite to enable HTTPS and for setting up CloudFront
+<br />
+<br />
 [Route53](https://aws.amazon.com/route53/what-is-dns/) - register and setup a domain name
 
 ## Available Scripts
