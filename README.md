@@ -1,6 +1,12 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This [Create React App](https://github.com/facebook/create-react-app) is meant to practice using: 
+
+##### AWS
+[S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html) - static website hosting for a react app
+[CloudFront](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html) - web service that speeds up distribution of your static and dynamic web content
+[ACM](https://docs.aws.amazon.com/acm/latest/userguide/acm-overview.html) - AWS Certificate Manager - prerequisite to enable HTTPS and for setting up CloudFront
+[Route53](https://aws.amazon.com/route53/what-is-dns/) - register and setup a domain name
 
 ## Available Scripts
 
